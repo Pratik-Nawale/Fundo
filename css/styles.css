@@ -1,0 +1,93 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 700;
+}
+
+/* Title Section */
+#title{
+  background-color: #9DAD7F;
+  text-align: left;
+  padding: 3% 7% 7%;
+  color: #F7F7E8;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.nav-item{
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 0 18px;
+}
+
+/* Title Image */
+.title-img{
+  width: 600px;
+}
+
+/* Download Button */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+#features{
+  text-align: center;
+  padding: 7% 15%;
+  background-color:#CDD0CB;
+}
+
+.sub-heading{
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: 600;
+}
+
+.feature-para{
+  font-size: 2rem;
+}
+
+.pricing-img{
+  width: 200px;
+}
+.sellouts{
+  text-align: center;
+  vertical-align: middle;
+  background-color: #9DAD7F;
+  padding: 7% 0;
+  color: #F7F7E8;
+}
+.pricing-title{
+  padding-top: 5%;
+}
+
+#cta{
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #CDD0CB;
+}
+
+#footer {
+  background-color: #E8EAE6;
+  text-align: center;
+}
+
+.social-icons {
+  margin: 20px 10px;
+}
+
+@media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
